@@ -1,7 +1,7 @@
 # Anti Drag Configuration
 This plugin will prevent you from dragging an item while holding the shift key for a specified delay.
 
-[![Client View](https://thumbs.gfycat.com/DefensiveLargeAustraliansilkyterrier-size_restricted.gif)](https://gfycat.com/DefensiveLargeAustraliansilkyterrier)
+![Client View](https://raw.githubusercontent.com/runelite/wiki/master/img/Anti-Drag-display.gif)
 
 
 ## Settings

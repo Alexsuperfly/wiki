@@ -1,6 +1,6 @@
 # Bank Configuration
 
-[![Client View](https://thumbs.gfycat.com/VigorousAbandonedGnu-size_restricted.gif)](https://gfycat.com/VigorousAbandonedGnu)
+![Client View](https://raw.githubusercontent.com/runelite/wiki/master/img/Bank-overview.gif)
 
 ## Settings
 
