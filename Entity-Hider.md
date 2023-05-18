@@ -1,7 +1,5 @@
 # Entity Hider Configuration
 
-[![Client View](https://thumbs.gfycat.com/ValidTenseGonolek-size_restricted.gif)](https://gfycat.com/ValidTenseGonolek)
-
 ## Settings
 
 ### 1. Hide Players

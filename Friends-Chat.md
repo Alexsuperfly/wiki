@@ -2,7 +2,7 @@
 
 When enabled, this plugin will add the respective rank icon next to users talking in a friends chat and remove a leading slash from any messages sent in the "Clan" chat tab
 
-![Friends chat ranks](https://i.imgur.com/xbkFGKC.png)
+![Friends chat ranks](https://raw.githubusercontent.com/runelite/wiki/master/img/Friends-Chat-rank.png)
 
 ## Settings
 
@@ -22,7 +22,7 @@ Displays an infobox with the number of nearby friends chat members.
 
 Adds a temporary message when friends chat members join or leave.
 
-<img width="150" alt="Screen Shot 2020-06-18 at 3 58 32 AM" src="https://user-images.githubusercontent.com/54762282/84994012-0f2a8e00-b118-11ea-9f69-5f16cd0801fa.png">
+![Friends chat ranks](https://raw.githubusercontent.com/runelite/wiki/master/img/Friends-Chat-join.png)
 
 ### Join/Leave rank
 

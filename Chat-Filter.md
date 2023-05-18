@@ -1,5 +1,5 @@
 # Chat Filter Configuration
-![Client View](https://i.imgur.com/Nfo01SQ.png)
+![Config](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Filter-config.png)
 
 ## Settings
 
@@ -54,22 +54,22 @@ Collapses repeated game chat messages.
 
 **Disabled:**
 
-![](https://i.imgur.com/5O0BVLq.png)
+![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Filter-disabled-collapse-game.png)
 
 **Enabled:**
 
-![](https://i.imgur.com/hF49xkN.png)
+![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Filter-enabled-collapse-game.png)
 
 ### Collapse Player Chat
 Collapses repeated player chat messages.
 
 **Disabled:**
 
-![](https://i.imgur.com/yOAF1Ns.png)
+![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Filter-disabled-collapse-player.png)
 
 **Enabled:**
 
-![](https://i.imgur.com/PwxLCT9.png)
+![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Filter-enabled-collapse-player.png)
 
 ### Max repeated public chats:
 Block player chat message if repeated this many times. `0` to disable.

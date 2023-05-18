@@ -1,6 +1,6 @@
 # GPU Configuration
 
-![Example of anti-aliasing](https://i.imgur.com/ZI4Y7d3.png)
+![Example of anti-aliasing](https://raw.githubusercontent.com/runelite/wiki/master/img/GPU-aa.png)
 
 ## Settings
 

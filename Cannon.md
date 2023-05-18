@@ -1,6 +1,6 @@
 # Cannon Configuration
 
-[![Client View](https://thumbs.gfycat.com/CarefulWillingDrafthorse-size_restricted.gif)](https://gfycat.com/CarefulWillingDrafthorse)
+![Cannon-overview](https://raw.githubusercontent.com/runelite/wiki/master/img/Cannon-overview.gif)
 
 ## Settings
 
