@@ -1,7 +1,6 @@
 # Hunter Configuration
 
-![](https://user-images.githubusercontent.com/25905465/38783826-df138de8-40d5-11e8-85cb-815d343f2dbf.png)
-
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Hunter-overlay.png)
 ## Settings
 
 ### 1. Open Trap

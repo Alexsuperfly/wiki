@@ -1,6 +1,5 @@
 # Kingdom of Miscellania Configuration
 
-[![Client View](https://thumbs.gfycat.com/FlashyYawningDwarfmongoose-size_restricted.gif)](https://gfycat.com/FlashyYawningDwarfmongoose)
-
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Kingdom-of-Miscellania-display.png)
 Enabling this plugin will display the amount of favour you have when entering Miscellania in the top left-hand corner.
 

@@ -1,7 +1,6 @@
 # Interface Styles Configuration
 
-![](https://i.imgur.com/tdzRuf5.png)
-
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-display.png)
 This plugin allows you to change the interface style, left-click cross animation, health bars, and right-click menu style.
 ## Settings
 
@@ -10,43 +9,43 @@ When in **resizable mode**, always stack the interface tiles regardless of scree
 
 #### Disabled
 
-![](https://i.imgur.com/Bn6Zqxs.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-stack-bottom-bar-disabled.png)
 
 #### Enabled
 
-![](https://i.imgur.com/CmNynn4.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-stack-bottom-bar-enabled.png)
 
 ### Gameframe
 The style of the game interfaces.
 
 #### 2005
 
-![](https://i.imgur.com/knbysql.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-gameframe-2005.png)
 
 #### 2006
 
-![](https://i.imgur.com/j2zgrHP.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-gameframe-2006.png)
 
 #### 2010
 
-![](https://i.imgur.com/lE0uRF9.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-gameframe-2010.png)
 
 ### High Detail health bars
 Replaces health bars with the RuneScape High Detail mode design.
 
-![](https://i.imgur.com/m3Bwnv6.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-hd-heathbars.png)
 
 ### High Detail menu
 Replaces game menu with the RuneScape High Detail mode design.
 
-![](https://i.imgur.com/vNaQcT0.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-hd-menu.png)
 
 ### Menu Alpha
 Configures the transparency of the right-click menu on a `0`-`255` scale.
 
-![](https://runelite.net/img/blog/1.6.17-Release/transparent-menu.gif)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-transparent-menu.gif)
 
 ### RuneScape cross sprites
 Replaces left-click cross sprites with the ones from RuneScape.
 
-![](https://i.imgur.com/Vi9NF7s.gif)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Interface-Styles-RuneScape-cross-sprites.gif)
