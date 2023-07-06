@@ -1,6 +1,7 @@
 # Herbiboar Configuration
 
 ![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Herbiboar-overlay.png)
+
 Highlights starting rocks, trails and the 2 objects to search at the end of each trail.
 
 ## Settings

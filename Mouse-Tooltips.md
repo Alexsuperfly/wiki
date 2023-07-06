@@ -1,6 +1,6 @@
 # Mouse Tooltips Configuration
 
-[![Client View](https://thumbs.gfycat.com/HotCharmingKakarikis-size_restricted.gif)](https://gfycat.com/HotCharmingKakarikis)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Mouse-Tooltips-overlay.gif)
 
 The plugin will render _most_ text that is typically displayed in the top left corner, except common options like "Walk here", "Cancel", "Continue" and "Move" (for sliding puzzles)
 

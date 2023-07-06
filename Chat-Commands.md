@@ -22,6 +22,7 @@ Current commands include:
 * `!pets`
 
 # Settings
+
 ![](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Commands-config.png)
 
 ### Price Command

@@ -1,4 +1,5 @@
 # Chat Filter Configuration
+
 ![Config](https://raw.githubusercontent.com/runelite/wiki/master/img/Chat-Filter-config.png)
 
 ## Settings

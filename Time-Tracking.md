@@ -1,6 +1,6 @@
 # Time Tracking Configuration
 
-[![Client View](https://thumbs.gfycat.com/ShorttermCooperativeGalapagosmockingbird-size_restricted.gif)](https://gfycat.com/ShorttermCooperativeGalapagosmockingbird)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Time-Tracking-panel.png)
 
 ## Settings
 

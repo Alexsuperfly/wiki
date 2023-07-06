@@ -3,6 +3,7 @@
 Displays the number of remaining charges for various items.
 
 ![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Item-Charges-overlay.png)
+
 ## Settings
 
 ### Very low Warning Color

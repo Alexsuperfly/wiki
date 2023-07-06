@@ -7,6 +7,7 @@ Using the Plugin Hub is very simple
 1. Open the plugin configuration panel.
 
 ![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Plugin-Hub-step1.png)
+
 2. Click the plug icon on the top right of the panel.
 
 ![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Plugin-Hub-step2.png)

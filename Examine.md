@@ -2,6 +2,8 @@
 
 Indicates the average GE and high-alch values of an item when examined
 
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Examine-display.png)
+
 ## Settings
 
 **Configurations can be accessed within the [Chat Color](https://github.com/runelite/runelite/wiki/Chat-Color) configurations**

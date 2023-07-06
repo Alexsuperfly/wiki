@@ -1,6 +1,6 @@
 # Stretched Mode Configuration
 
-[![Client View](https://thumbs.gfycat.com/PoshPalatableHogget-size_restricted.gif)](https://gfycat.com/PoshPalatableHogget)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Stretched-Mode-example.gif)
 
 ## Settings
 

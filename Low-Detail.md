@@ -1,9 +1,12 @@
 # Low Detail Configuration
 
-[![Client View](https://thumbs.gfycat.com/WholeInfiniteBarracuda-size_restricted.gif)](https://gfycat.com/WholeInfiniteBarracuda)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Low-Detail-display.gif)
 
-(Default Off) The game will run in low detail, reducing memory usage. When enabled, ground decorations (like pebbles and grass), and some textures are turned off.
+## Settings
+### Low Detail
+Run in Low Detail mode, reducing memory usage. When enabled, ground decorations (like pebbles and grass), and some textures are turned off.
+#### WARNING
+Please note, Low Detail mode can cause some textures to not render or disappear (e.g. Seer's Rooftop Agility). Turning off this option will fix this.
 
-## Warning:
-
-Please note, Low Detail mode can cause some textures to not render or disappear (e.g. Seer's Rooftop Agility). Turning off this plugin and restarting the client will fix this.
+### Hide lower planes
+Disable rendering floors below you, this can drastically improve client performance in locations such as the Kourend Library and Sepulchre.

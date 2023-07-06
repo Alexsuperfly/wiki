@@ -2,6 +2,7 @@
 Displays a button to open the Hiscore panel.
 
 ![image](https://raw.githubusercontent.com/runelite/wiki/master/img/HiScore-panel.png)
+
 ## Features
 ### Self-lookup
 

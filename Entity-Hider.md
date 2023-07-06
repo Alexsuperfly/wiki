@@ -1,5 +1,7 @@
 # Entity Hider Configuration
 
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Entity-Hider-display.gif)
+
 ## Settings
 
 ### 1. Hide Players

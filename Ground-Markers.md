@@ -7,6 +7,7 @@ Removing a marked tiles follows the same principle, shift right click the tile a
 Marked tiles can also be labeled by shift right clicking the desired previously marked tile.
 
 ![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Markers-label.png)
+
 The plugin also remembers which tiles you have marked between sessions.
 
 
@@ -19,10 +20,13 @@ The plugin also remembers which tiles you have marked between sessions.
 ---
 
 ![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Markers-settings.png)
+
 ### Border width
 In pixels.
 ### Draw tiles on the minimap
+
 ![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Ground-Markers-minimap.png)
+
 ### Fill Opacity
 Makes marked tiles darker. 0 (fully transparent) - 255 (fully opaque).
 ### Remember color per tile

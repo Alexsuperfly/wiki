@@ -1,6 +1,6 @@
 # Grand Exchange Configuration
 
-[![Client View](https://thumbs.gfycat.com/UnfoldedAgonizingAmericankestrel-size_restricted.gif)](https://gfycat.com/UnfoldedAgonizingAmericankestrel)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Grand-Exchange-display.png)
 
 This plugin, when enabled, allows the user to 'Alt + Left Click' on an item sold in the GE and lookup that item in the GE tab on the side.
 
