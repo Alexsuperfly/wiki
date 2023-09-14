@@ -1,8 +1,8 @@
 # Runecraft Configuration
 
 Displays minimap icons and click boxes for abyssal rift and provides other Runecraft-related features.
-<img width="750" alt="Screen Shot 2020-06-12 at 2 57 01 AM" src="https://user-images.githubusercontent.com/54762282/84474303-9da29980-ac58-11ea-9f27-35c4f6e72c0c.png">
 
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Runecraft-abyss.png)
 
 
 ## Settings

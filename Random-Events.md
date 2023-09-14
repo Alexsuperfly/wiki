@@ -1,6 +1,6 @@
 # Random Events Configuration
 
-![leo with hidden menu options](https://github.com/runelite/runelite.net/blob/master/public/img/blog/1.5.36-Release/random.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Random-Events-hide-options.png)
 
 ## Settings
 

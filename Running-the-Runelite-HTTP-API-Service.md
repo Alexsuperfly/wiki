@@ -16,19 +16,19 @@ Before we go any further we are going to create Google API credentials. See [Set
 
 Step 1) Visit https://console.cloud.google.com/apis/credentials and click the create credentials button
 
-![](https://i.imgur.com/e0i71Us.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Running-the-Runelite-HTTP-API-Service-credentials.png)
 
 Step 2) Select the OAuth client ID option
 
-![](https://i.imgur.com/2iMK0MP.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Running-the-Runelite-HTTP-API-Service-oauth.png)
 
 Step 3) Select Web Application and add `http://localhost:8080/oauth/` as a Redirect URI
 
-![](https://i.imgur.com/aZIxIP4.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Running-the-Runelite-HTTP-API-Service-application.png)
 
 Step 4) Create the credentials and copy the Client ID and Secret
 
-![](https://i.imgur.com/X4DlLgf.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Running-the-Runelite-HTTP-API-Service-create.png)
 
 ### Adding OAuth Credentials to Config
 

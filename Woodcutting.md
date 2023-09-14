@@ -2,8 +2,8 @@
 Enables tracking your Woodcutting statistics  
 The plugin will show whether or not you are woodcutting, your total logs cut, and your logs cut per hour  
 
-![Woodcutting plugin active](https://i.imgur.com/AlMk52I.png)  
-![Woodcutting plugin inactive](https://i.imgur.com/yWFcEO6.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Woodcutting-active.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Woodcutting-inactive.png)
 
 ## Settings
 ### Reset stats (minutes)

@@ -1,4 +1,4 @@
 # Skybox Configuration
 Display an area-themed skybox.
 
-![Skybox comparison](https://i.imgur.com/M28Gma3.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Skybox-comparison.png)

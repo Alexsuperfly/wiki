@@ -1,6 +1,6 @@
 # Special Attack Counter Configuration
 
-![](https://i.imgur.com/94Z4uus.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Special-Attack-Counter-example.png)
 
 This plugin will track the following special attacks used on any NPC:
 

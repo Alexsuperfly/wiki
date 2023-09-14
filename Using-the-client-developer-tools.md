@@ -7,8 +7,8 @@ It is also recommended to add `--debug` to your program arguments to get extra l
 
 To do this in IntelliJ, you need to edit your run configuration:
 
-![](https://i.imgur.com/6AUCi9E.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Using-the-client-developer-tools-edit-configuration.png)
 
 Specify the settings as follows:
 
-![](https://puu.sh/AJGze/376d472dfc.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Using-the-client-developer-tools-configuration-options.png)

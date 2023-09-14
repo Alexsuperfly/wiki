@@ -1,3 +1,3 @@
 Shows you where to click to solve puzzle boxes.
 
-![puzzlebox](https://i.imgur.com/n20bCLL.gif)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Puzzle-Solver-example.gif)

@@ -1,8 +1,8 @@
 ## Tile Indicators Configuration
 
-![Setting bar](https://i.imgur.com/eDipbE9.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Tile-Indicators-plugin.png)
 
-![Skill icon enabled](https://i.imgur.com/73agl2H.gif)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Tile-Indicators-example.gif)
 
 
 ## Settings

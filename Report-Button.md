@@ -1,6 +1,6 @@
 ## Report Button Configuration
 
-![Report button preview](https://i.imgur.com/mFvT5gD.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Report-Button-example.png)
 
 ## Settings
 ### Display Options

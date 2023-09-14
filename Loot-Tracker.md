@@ -1,23 +1,22 @@
 # Loot Tracker
 
-<img width="235" alt="Loot tracker" src="https://user-images.githubusercontent.com/54762282/84464678-2b738a00-ac43-11ea-8678-e8395fde60df.png">
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Loot-Tracker-panel.png)
 
 The Loot Tracker plugin adds a sidebar panel which tracks the contents and value of items dropped while killing monsters, other players, and drops from some other activities such as Barrows, Chambers of Xeric, Theatre of Blood, and Clue Scrolls.
 
 ## Usage
 
- <img width="25" alt="Collapse" src="https://user-images.githubusercontent.com/54762282/84465088-25ca7400-ac44-11ea-91d5-65c0edca9fbb.png"> Collapse loot
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Loot-Tracker-chevron.png) Collapse loot
 
-<img width="52" alt="Group" src="https://user-images.githubusercontent.com/54762282/84465090-25ca7400-ac44-11ea-9571-08652e6cc1fb.png"> Group loot by source or individual kill.
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Loot-Tracker-grouping.png) Group loot by source or individual kill.
 
-<img width="28" alt="Hide" src="https://user-images.githubusercontent.com/54762282/84465091-26630a80-ac44-11ea-942a-fd07066c9b73.png"> Show/Hide hidden loot
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Loot-Tracker-hide.png) Show/Hide hidden loot
 
 To show/hide individual items or all loot from a specific NPC, use right-click:
 
-<img width="116" alt="Right click" src="https://user-images.githubusercontent.com/54762282/84464682-2b738a00-ac43-11ea-8051-d67098f8b078.png">
-<br>
-<img width="135" alt="Toggle Item" src="https://user-images.githubusercontent.com/54762282/84464680-2b738a00-ac43-11ea-9efb-3ef0486fa080.png">
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Loot-Tracker-right-click.png)
 
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Loot-Tracker-toggle.png)
 
 
 ## RuneLite Account
@@ -29,7 +28,7 @@ The loot can also be reviewed on the website at https://runelite.net/account/loo
 
 # Loot Tracker Configuration
 
-<img width="242" alt="Screen Shot 2020-06-12 at 12 58 02 AM" src="https://user-images.githubusercontent.com/54762282/84466659-e140d780-ac47-11ea-82bb-019e037dcf0b.png">
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Loot-Tracker-config.png)
 
 ## Ignored Entries
 

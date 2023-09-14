@@ -1,7 +1,7 @@
 # Smelting Configuration
 Display an infobox with stats for the current smelting session.
 
-![Smelting Infobox](https://i.imgur.com/Nj5xOVn.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Smelting-overlay.png)
 
 ## Settings
 ### 1. Reset stats (minutes) [Edit Box]

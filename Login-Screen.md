@@ -1,5 +1,5 @@
 # Login Screen Configuration
-![Login Screen](https://i.imgur.com/kp9TQU7.png)
+![image](https://raw.githubusercontent.com/runelite/wiki/master/img/Login-Screen-screen.png)
 
 ## Settings
 ### Ctrl-V Paste
